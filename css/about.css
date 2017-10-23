@@ -1,0 +1,15 @@
+nav.navbar{
+    background: transparent;
+    border-bottom: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.img-circle {
+    border-radius: 50%;
+    width: 100%;
+}
+
+.fill{
+
+	font-family: 'Open Sans', sans-serif;
+}
