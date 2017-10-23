@@ -3,3 +3,13 @@ nav.navbar{
     border-bottom: #ffffff;
     font-family: 'Open Sans', sans-serif;
 }
+
+.span4 img {
+    margin-right: 10px;
+}
+.span4 .img-left {
+    float: left;
+}
+.span4 .img-right {
+    float: right;
+}
