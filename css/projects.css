@@ -13,3 +13,7 @@ nav.navbar{
 .span4 .img-right {
     float: right;
 }
+.fill{
+	/*background-color: #FF9E00;*/
+	background-color: rgba(255,158,0, 0.8);
+}

@@ -1,8 +1,12 @@
 /*animation homepage*/
 
 html, body{
-  height: 100%;
   font-weight: 800;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
 }
 
 body{
@@ -59,11 +63,8 @@ svg {
 /*filling the background with color*/
 
 .fill{
-
- background: #0f0c29;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);   Chrome 10-25, Safari 5.1-6 
-background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+background: #FFC959;
+color: #800020; 
 }
 
 /*homepage*/
@@ -98,6 +99,16 @@ nav.navbar{
 
   font-size: 80px;
 }
+
+#intro{
+
+  height:500px;
+}
+
+h1{
+  text-align: center;
+}
+
 
 
 /*end homepage*/
