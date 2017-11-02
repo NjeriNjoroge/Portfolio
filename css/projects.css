@@ -17,3 +17,11 @@ nav.navbar{
 	/*background-color: #FF9E00;*/
 	background-color: rgba(255,158,0, 0.8);
 }
+
+.nav.navbar-nav.navbar-right li a {
+    color: white;
+}
+
+#white{
+    color: white;
+}
